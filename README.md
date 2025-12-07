@@ -1,0 +1,1 @@
+# stachelib-celeritas
